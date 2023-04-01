@@ -1,0 +1,22 @@
+.CalculatorBox {
+    border: 5px solid black;
+    border-radius: 15px;
+    padding: 10px;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: maroon;
+    color: white; 
+  }
+  
+
+  input[type="text"], button {
+    padding: 5px;
+    margin: 5px;
+    width: 200px;
+  }
+  
+  #Answer {
+    font-weight: bold;
+  }
+  
